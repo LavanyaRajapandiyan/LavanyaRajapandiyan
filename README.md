@@ -25,6 +25,15 @@
 <img src ="https://github.com/LavanyaRajapandiyan/LavanyaRajapandiyan/assets/144604083/9b265841-ea50-4d3c-933f-a3f236313469" width="60"/>
 <img src ="https://github.com/LavanyaRajapandiyan/LavanyaRajapandiyan/assets/144604083/11c58bd6-25e5-4bd9-8bdb-eced751de7b6" width="60"/>
 
+---
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LavanyaRajapandiyan&show_icons=true&theme=transparent)
+
+
+
+
 
 
 
